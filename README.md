@@ -1,4 +1,4 @@
-<p align ='center'><a href="#"><img width="50%" height="auto" src="https://sharasolutions.com/wp-content/uploads/2019/01/programming.gif" height="100px"/></a></p>
+<p align ='center'><a href="#"><img width="80%" height="auto" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" height="100px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Haris</h1>
 <h3 align="center">I love to create amazing websites for the internet.</h3>
