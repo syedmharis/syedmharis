@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **Syedharry100@gmail.com**
+- 📫 How to reach me **syedharry100@gmail.com**
 
 ## 🚀 Languages and Tools:
 
