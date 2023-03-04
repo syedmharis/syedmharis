@@ -1,11 +1,11 @@
-<p align ='center'><a href="#"><img width="80%" height="300px" src="https://i.kym-cdn.com/photos/images/original/000/951/156/073.gif"/></a></p>
-
-<h1 align="center">Hi 👋, I'm Haris</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3><p align="left"> 
-    
-<img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="harrylovescoding" /> </p>
-
-
+<div align="center">
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="harrylovescoding" /> </p>
+    <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif">
+</div>
+<h1 align="center">Hi 👋, I'm Haris</h1> 
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=5000&&size=24&lines=Hi+There+I+Am+Coder+Haris;A+passionate+Software+Engineer+from+Pakistan;Expreienced+Ui+%2F+Ux+Designer;4+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrylovescoding" alt="harrylovescoding" /></a> </p>
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.muhammadharis.live/](https://www.muhammadharis.live/)
 
-- 📝 I regularly write articles on [https://medium.com/@smharis](https://medium.com/@smharis)
+- 📝 I sometimes write articles on [https://medium.com/@smharis](https://medium.com/@smharis)
 
 - 💬 Ask me about **JavaScript , React , Asp.NET**
 
@@ -136,20 +136,14 @@ if __name__ == '__main__':
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS: A Beginner’s Guide.](https://smharis.medium.com/getting-started-with-aws-a-beginners-guide-d7c98c5c997e?source=rss-adf2c7941f5a------2)
-- [⚠️   ⚠️](https://smharis.medium.com/%EF%B8%8F-%EF%B8%8F-8faa69cfdf80?source=rss-adf2c7941f5a------2)
-- [A Beginner’s Guide to GPT-3](https://smharis.medium.com/a-beginners-guide-to-gpt-3-30b6fa9465b5?source=rss-adf2c7941f5a------2)
-- [Passive income the real truth?](https://smharis.medium.com/passive-income-the-real-truth-27843535af1f?source=rss-adf2c7941f5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>📊 Github Stats and Activity</h2>
 
   <h3>🔥 Streak Stats</h3>
-
   <p>
-    <a href="https://github.com/harrylovescoding">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" src="https://streak-stats.demolab.com/?user=harrylovescoding&theme=monokai-metallian&hide_border=true"/>
-    </a>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" width="50%" height="100%" src="https://streak-stats.demolab.com/?user=harrylovescoding&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Coder" alt="Harry's Coding" width="30%" height="200" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
