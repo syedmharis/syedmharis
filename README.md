@@ -1,5 +1,5 @@
 <div align="center">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="harrylovescoding" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
     <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Haris</h1> 
