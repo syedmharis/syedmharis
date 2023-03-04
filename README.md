@@ -1,16 +1,47 @@
 <p align ='center'><a href="#"><img width="80%" height="300px" src="https://i.kym-cdn.com/photos/images/original/000/951/156/073.gif"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>, I'm Haris</h1>
+<h1 align="center">Hi 👋, I'm Haris</h1>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3><p align="left"> 
+    
+<img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="harrylovescoding" /> </p>
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrylovescoding" alt="harrylovescoding" /></a> </p>
+
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I’m a undergrad Software Engineering Student at **[UIT](https://www.uit.edu/)**.
+- 🏫 I’m studying Software Engineering at [UIT.](https://www.uitu.edu.pk/)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Three.js , Fast API**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on [Opensource Projects](https://github.com/CommunityToolkit/ColorCode-Universal)
+
+- 🤝 I’m looking for help with [Library Management System](https://github.com/harrylovescoding/Library-Management-System)
+
+- 👨‍💻 All of my projects are available at [https://www.muhammadharis.live/](https://www.muhammadharis.live/)
+
+- 📝 I regularly write articles on [https://medium.com/@smharis](https://medium.com/@smharis)
+
+- 💬 Ask me about **JavaScript , React , Asp.NET**
 
 - 📫 How to reach me **syedharry100@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ijgJcQA5TEcUY8VA103JxzPaJGQT6E7g/view](https://drive.google.com/file/d/1ijgJcQA5TEcUY8VA103JxzPaJGQT6E7g/view)
+
+- ⚡ Fun fact **I love photography**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006303946629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006303946629" height="30" width="40" /></a>
+<a href="https://instagram.com/haha_haris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haha_haris1" height="30" width="40" /></a>
+<a href="https://www.behance.net/smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smharis" height="30" width="40" /></a>
+<a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
+</p>
 
 ```python
 class SyedHaris:
@@ -102,6 +133,10 @@ if __name__ == '__main__':
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
+<h2>✍ Lastest Blogs</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h2>📊 Github Stats and Activity</h2>
 
