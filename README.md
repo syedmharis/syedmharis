@@ -134,7 +134,7 @@ if __name__ == '__main__':
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 
-# Blog posts
+<h2>🧾 My Recent Blogs</h2>
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with AWS: A Beginner’s Guide.](https://smharis.medium.com/getting-started-with-aws-a-beginners-guide-d7c98c5c997e?source=rss-adf2c7941f5a------2)
 - [⚠️   ⚠️](https://smharis.medium.com/%EF%B8%8F-%EF%B8%8F-8faa69cfdf80?source=rss-adf2c7941f5a------2)
@@ -147,7 +147,7 @@ if __name__ == '__main__':
   <h3>🔥 Streak Stats</h3>
   <p>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" width="50%" height="100%" src="https://streak-stats.demolab.com/?user=harrylovescoding&theme=monokai-metallian&hide_border=true"/>
-      <img title="🔥 Coder" alt="Harry's Coding" width="30%" height="200" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/>
+      <img title="🔥 Coder" alt="Harry's Coding" width="20%" height="40%" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
