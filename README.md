@@ -136,10 +136,10 @@ if __name__ == '__main__':
 
 <h2>🧾 My Recent Blogs</h2>
 <!-- BLOG-POST-LIST:START -->
+- [One stop solution to deleting node modules.](https://smharis.medium.com/one-stop-solution-to-deleting-node-modules-91456df7240?source=rss-adf2c7941f5a------2)
 - [Getting Started with AWS: A Beginner’s Guide.](https://smharis.medium.com/getting-started-with-aws-a-beginners-guide-d7c98c5c997e?source=rss-adf2c7941f5a------2)
 - [⚠️ AI MIGHT CAUSE WARS ⚠️](https://smharis.medium.com/%EF%B8%8F-%EF%B8%8F-8faa69cfdf80?source=rss-adf2c7941f5a------2)
 - [A Beginner’s Guide to GPT-3](https://smharis.medium.com/a-beginners-guide-to-gpt-3-30b6fa9465b5?source=rss-adf2c7941f5a------2)
-- [Passive income the real truth?](https://smharis.medium.com/passive-income-the-real-truth-27843535af1f?source=rss-adf2c7941f5a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>📊 Github Stats and Activity</h2>
