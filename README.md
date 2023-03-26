@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
-    <img width="68%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
-    <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="28%" alt="Syed Haris's Dev Card"/></a>
+    <img width="70%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
+    <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="29%" alt="Syed Haris's Dev Card"/></a>
 </div>
 <h1 align="center">Hi 👋, I'm Haris</h1> 
  <p align="center">
