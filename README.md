@@ -1,48 +1,34 @@
+<h1 align="center">Wasup! ✌️ My name is Syed Muhammad Haris!</h1> 
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=5000&&size=24&lines=Hi+There+I+Am+Coder+Haris;A+passionate+Software+Engineer+from+Pakistan;Expreienced+Ui+%2F+Ux+Designer;4+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
     <img width="70%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
     <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="29%" alt="Syed Haris's Dev Card"/></a>
 </div>
-<h1 align="center">Hi 👋, I'm Haris</h1> 
- <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&duration=5000&&size=24&lines=Hi+There+I+Am+Coder+Haris;A+passionate+Software+Engineer+from+Pakistan;Expreienced+Ui+%2F+Ux+Designer;4+Years+Coding+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrylovescoding" alt="harrylovescoding" /></a> </p>
 
 
 ## 🙋‍♂️ About Me
 
+<p>I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in C# and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing games. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!</p>
+
 - 🏫 I’m studying Software Engineering at [UIT.](https://www.uitu.edu.pk/)
 
 - 🌱 I’m currently learning **Three.js , Fast API**
 
-- 👯 I’m looking to collaborate on [Opensource Projects](https://github.com/CommunityToolkit/ColorCode-Universal)
-
-- 🤝 I’m looking for help with [Library Management System](https://github.com/harrylovescoding/Library-Management-System)
+- 🤝  Open to collaborating on all kind of Projects!
 
 - 👨‍💻 All of my projects are available at [https://www.muhammadharis.live/](https://www.muhammadharis.live/)
 
-- 📝 I sometimes write articles on [https://medium.com/@smharis](https://medium.com/@smharis)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@smharis)
 
 - 💬 Ask me about **JavaScript , React , Asp.NET**
 
-- 📫 How to reach me **syedharry100@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ijgJcQA5TEcUY8VA103JxzPaJGQT6E7g/view](https://drive.google.com/file/d/1ijgJcQA5TEcUY8VA103JxzPaJGQT6E7g/view)
-
-- ⚡ Fun fact **I love photography**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006303946629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006303946629" height="30" width="40" /></a>
-<a href="https://instagram.com/haha_haris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haha_haris1" height="30" width="40" /></a>
-<a href="https://www.behance.net/smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smharis" height="30" width="40" /></a>
-<a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
-</p>
+- ⚡  I can learn fast if you teach me slowly!
 
 ```python
 class SyedHaris:
@@ -66,6 +52,17 @@ class SyedHaris:
 if __name__ == '__main__':
     me = SyedHaris()
 ```
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006303946629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006303946629" height="30" width="40" /></a>
+<a href="https://instagram.com/haha_haris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haha_haris1" height="30" width="40" /></a>
+<a href="https://www.behance.net/smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smharis" height="30" width="40" /></a>
+<a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
+</p>
 
 <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
