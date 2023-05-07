@@ -1,6 +1,6 @@
 <h1 align="center">Wasup! ✌️ My name is Syed Muhammad Haris!</h1> 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=1000&color=FF00C6&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&duration=4000&pause=1000&color=#df73ff&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
