@@ -141,16 +141,16 @@ if __name__ == '__main__':
 
   <h3>🔥 Streak Stats</h3>
   <p>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" width="50%" height="100%" src="https://streak-stats.demolab.com/?user=harrylovescoding&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" width="50%" height="100%" src="https://streak-stats.demolab.com/?user=syedmharis&theme=monokai-metallian&hide_border=true"/>
       <img title="🔥 Coder" alt="Harry's Coding" width="20%" height="40%" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/harrylovescoding"><img alt="Harry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=harrylovescoding&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/harrylovescoding"><img alt="Harry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=harrylovescoding&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/harrylovescoding"><img alt="Harry's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=syedmharis&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/harrylovescoding"><img alt="Harry's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=syedmharis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
 <h3>💻 GitHub Trophies</h3>
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrylovescoding" alt="harrylovescoding" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedmharis" alt="harrylovescoding" /></a> </p>
