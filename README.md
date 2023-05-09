@@ -4,6 +4,15 @@
 
 <div align="center">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
+<p align="center">
+<a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006303946629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006303946629" height="30" width="40" /></a>
+<a href="https://instagram.com/haha_haris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haha_haris1" height="30" width="40" /></a>
+<a href="https://www.behance.net/smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smharis" height="30" width="40" /></a>
+<a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
+</p>
     <img width="70%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
     <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="29%" alt="Syed Haris's Dev Card"/></a>
 </div>
@@ -49,17 +58,6 @@ class SyedHaris:
 if __name__ == '__main__':
     me = SyedHaris()
 ```
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006303946629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006303946629" height="30" width="40" /></a>
-<a href="https://instagram.com/haha_haris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haha_haris1" height="30" width="40" /></a>
-<a href="https://www.behance.net/smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smharis" height="30" width="40" /></a>
-<a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
-</p>
 
 <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
