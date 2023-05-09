@@ -1,9 +1,18 @@
+![](assets/Bottom_up.svg)
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=4000&pause=1000&color=DF73FF&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="count" /> </p>
+    <p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=harrylovescoding&label=Profile%20views" alt="count" />
+        <a href="https://github.com/syedmharis/syedmharis"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+        <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+        <a href="https://github.com/syedmharis/syedmharis/graphs/contributors"><img src="https://img.shields.io/github/contributors/syedmharis/syedmharis?color=blue"></a>
+        <a href="https://github.com/syedmharis/syedmharis/stargazers"><img src="https://img.shields.io/github/stars/syedmharis/syedmharis.svg?logo=github"></a>
+        <a href="https://github.com/syedmharis/syedmharis/network/members"><img src="https://img.shields.io/github/forks/syedmharis/syedmharis.svg?color=blue&logo=github">
+            </p>
+        
 <p align="center">
 <a href="https://twitter.com/https_haris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_haris" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/syedmuhammadharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedmuhammadharis" height="30" width="40" /></a>
