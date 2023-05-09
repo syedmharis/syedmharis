@@ -22,7 +22,7 @@
 <a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
 </p>
-    
+<div>
     <img width="70%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
     <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="29%" alt="Syed Haris's Dev Card"/></a>
 </div>
