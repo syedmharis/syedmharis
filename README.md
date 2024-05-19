@@ -1,6 +1,6 @@
-![](assets/Bottom_up.svg)
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=4000&pause=1000&color=ff6600&center=true&width=1000&height=40&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=5000&pause=1000&color=ff6600&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;Currently+I'm+working+on+Android+App+Development+using+Jetpack+Compose+Kotlin.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -151,7 +151,7 @@ if __name__ == '__main__':
   <h3>🔥 Streak Stats</h3>
   <p>
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harry's streak" width="50%" height="100%" src="https://streak-stats.demolab.com/?user=syedmharis&theme=monokai-metallian&hide_border=true"/>
-      <img title="🔥 Coder" alt="Harry's Coding" width="20%" height="40%" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/>
+<!--       <img title="🔥 Coder" alt="Harry's Coding" width="20%" height="40%" src="https://ouch-cdn2.icons8.com/HszctXzFhnoWxLXo3ekflWyFwE-ueoKLfZMh72i-Xa0/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM1/LzM3MTZmODliLTE0/MDAtNDVmNy04NzZj/LWNiOGU0N2Q2Nzlj/Ni5zdmc.png"/> -->
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
