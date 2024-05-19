@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=4000&pause=1000&color=DF73FF&center=true&width=1000&height=40&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=4000&pause=1000&color=ff6600&center=true&width=1000&height=40&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -22,10 +22,10 @@
 <a href="https://medium.com/@smharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smharis" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3ab6xmv0xabavytvqaoevq" height="30" width="40" /></a>
 </p>
-<div>
+<!-- <div>
     <img width="70%" alt="welcome to my profile!" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
     <a href="https://app.daily.dev/https-haris"><img src="https://github.com/harrylovescoding/harrylovescoding/blob/main/devcard.svg" width="29%" alt="Syed Haris's Dev Card"/></a>
-</div>
+</div> -->
     </div>
 <br>
 
@@ -48,18 +48,18 @@
 - ⚡  I can learn fast if you teach me slowly!
 
 ```python
-class SyedHaris:
+class SyedMuhammadHaris:
     def __init__(self):
-        self.username = 'harrylovescoding'
+        self.username = 'syedmharis'
         self.name = 'Syed Muhammad Haris'
-        self.web = 'https://muhammadharis.live'
+        self.linkedin = 'www.linkedin.com/in/syedmuhammadharis/'
         self.twitter = '@https_haris'
         self.code = {
-            'Frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Boostrap', 'TailWind'],
-            'Backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS'],
+            'Frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Bootstrap', 'TailWind', 'Jetpack Compose', 'XML', 'KMP'],
+            'Backend': ['Python', 'Kotlin', 'Flask', 'Django', 'Java', 'NodeJS'],
             'Database': ['PostgreSQL', 'MySQL', 'Mongo DB'],
             'Devops': ['Docker', 'GitHub Actions', 'AWS', 'Heroku', 'Netlify'],
-            'Tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery']
+            'Tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook','Redis', 'Celery']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
         
@@ -67,7 +67,7 @@ class SyedHaris:
         return self.name
         
 if __name__ == '__main__':
-    me = SyedHaris()
+    me = SyedMuhammadHaris()
 ```
 
 <h2>🛠️ My Favorite Tools</h2>
