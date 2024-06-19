@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=5000&pause=1000&color=ff6600&center=true&width=1000&height=60&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;Currently+I'm+working+on+Android+App+Development+using+Jetpack+Compose+Kotlin.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=5000&pause=1000&color=ff6600&center=true&width=1200&height=60&lines=Welcome+to+my+GitHub+Profile!+You're+Amazing.;Just+like+everyone+else+I+started++my+journey+with+%22Hello+World!%22;I+have+4%2B+years+of+development+and+coding+experience.;Currently+I'm+working+on+Android+App+Development+using+Jetpack+Compose+Kotlin.;I've+always+been+passionate+about+technology+and+innovation.;When+I'm+not+working%2C+you'll+find+me+contributing+to+open+source+projects.;I+am+always+learning+and+exploring+new+technologies.;Scroll+down+to+learn+more+about+me!+Hit+that+follow+button." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
