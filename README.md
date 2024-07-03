@@ -31,9 +31,9 @@
 
 ## 🙋‍♂️ About Me
 
-<p>I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in C# and Python. I have experience working with both React and Node, and enjoy exploring new technologies and frameworks to build innovative applications.In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing games. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!</p>
+<p>I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in Python and Kotlin I have experience working with MERN stack and Android, and I enjoy exploring new technologies and frameworks to build innovative applications.In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing games. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!</p>
 
-- 🏫 I’m studying Software Engineering at [UIT.](https://www.uitu.edu.pk/)
+- 🏫 I’m graduated Software Engineer from [UIT.](https://www.uitu.edu.pk/)
 
 - 🌱 I’m currently learning **Three.js , Fast API**
 
@@ -43,7 +43,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@smharis)
 
-- 💬 Ask me about **JavaScript , React , Asp.NET**
+- 💬 Ask me about **JavaScript , React , Android**
 
 - ⚡  I can learn fast if you teach me slowly!
 
