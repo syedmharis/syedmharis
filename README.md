@@ -31,7 +31,7 @@
 
 ## 🙋‍♂️ About Me
 
-<p>I'm a software engineer with a passion for all things tech. My favorite programming language is JavaScript, but I'm also proficient in Python and Kotlin I have experience working with MERN stack and Android, and I enjoy exploring new technologies and frameworks to build innovative applications.In my free time, you'll find me tinkering with new tech gadgets, attending hackathons and sometimes (or a lot) playing games. I'm a big believer in the power of open source and actively looking for contribute to projects on GitHub.If you're interested in collaborating on a project or just want to chat about the latest tech trends, feel free to reach out. Let's build something great together!</p>
+<p>I'm a results-oriented Software Engineer with a strong passion for developing innovative and user-centric applications. My expertise lies in JavaScript and Python, with extensive hands-on experience in the MERN stack and AI development. I am a firm believer in the power of open-source technology and am always on the lookout for opportunities to contribute to impactful projects. Let's connect and build something amazing together!</p>
 
 - 🏫 I’m graduated Software Engineer from [UIT.](https://www.uitu.edu.pk/)
 
